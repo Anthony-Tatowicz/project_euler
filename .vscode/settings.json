@@ -1,0 +1,8 @@
+{
+    "fileheader.Author": "anthony.tatowicz",
+    "fileheader.LastModifiedBy": "anthony.tatowicz",
+    "files.associations": {
+        "stdint.h": "c",
+        "string.h": "c"
+    }
+}
