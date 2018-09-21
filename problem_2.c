@@ -41,5 +41,5 @@ int main()
 
     printf("%u\n", sum);
 
-    return reuslt_ok;
+    return result_ok;
 }

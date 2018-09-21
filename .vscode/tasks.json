@@ -9,7 +9,7 @@
             "command": "gcc",
             "args": [
                 "-g",
-                "problem_2.c"
+                "problem_3.c"
             ],
             "group": {
                 "kind": "build",
