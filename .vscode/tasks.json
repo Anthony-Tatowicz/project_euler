@@ -9,12 +9,13 @@
             "command": "gcc",
             "args": [
                 "-g",
-                "problem_3.c"
+                "problem_4.c"
             ],
             "group": {
                 "kind": "build",
                 "isDefault": true
-            }
+            },
+            "problemMatcher": []
         },
         {
             "label": "run",
