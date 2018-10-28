@@ -1,6 +1,6 @@
 # project_euler
 
-My project euler solutions 
+Project euler solutions, a nice problem solving pass time
 
 ## Solutions Status
 
